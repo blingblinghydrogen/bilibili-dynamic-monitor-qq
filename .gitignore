@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 运行时生成的本地文件（含敏感信息）
+config.json
+openid.txt
+storage_state.json
+result.md
+debug_screenshot.png
+debug_full.png
+debug_dom.py

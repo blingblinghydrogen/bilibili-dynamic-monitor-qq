@@ -1,0 +1,6 @@
+{
+  "hours_back": 4,
+  "headless": false,
+  "max_scroll_attempts": 10,
+  "scroll_wait_ms": 1500
+}
